@@ -4,4 +4,4 @@ En este repositorio se irán agregando links a los diferentes mapas generados co
 ### Mapas generados
 - Estructuras agrarias 2002
 - Sustitución sojera 1988-2002
-- [Articulación terrotorial entre las diferentes formas de expansión sojera (1988-2002)](https://raw.githubusercontent.com/gefero/CONICET_mapas_soja/main/maps/03_articulacion_soja.html)
+- [Articulación terrotorial entre las diferentes formas de expansión sojera (1988-2002)](maps/03_articulacion_soja.html)
