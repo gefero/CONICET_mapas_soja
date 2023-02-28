@@ -6,7 +6,7 @@ En este repositorio se irán agregando links a los diferentes mapas generados co
 - [Sustitución sojera 1988-2002](maps/01_sust_soja_1.html)
 - [Estructuras agrarias 2002](maps/02_estructuras.html) 
 - [Articulación terrotorial entre las diferentes formas de expansión sojera (1988-2002)](maps/03_articulacion_soja.html)
-- [Distribución espacial de los diferentes tipos de fuegos (2002-2022)](maps/)
+- [Distribución espacial de los diferentes tipos de focos de calor (2002-2022)](maps/20220228_type_fires_pca_kmean.html)
 ### Documentos
 - [Mosaicos de frontera. Articulación territorial entre las diversas modalidades de la expansión sojera, Argentina 1988-2002](https://osf.io/preprints/socarxiv/wdnh7/)
 
