@@ -12,5 +12,6 @@ En este repositorio se irán agregando links a los diferentes mapas generados co
 - [Mosaicos de frontera. Articulación territorial entre las diversas modalidades de la expansión sojera, Argentina 1988-2002](https://osf.io/preprints/socarxiv/wdnh7/)
 
 ### Incendios y estructura agraria
-- [Distribución espacial de los diferentes tipos de focos de calor (2002-2022) con capa de estructura agraria concreta](maps/20220228_type_fires_pca_kmean_estr.html)
+- [Distribución espacial de los diferentes tipos de focos de calor (2001-2020) con capa de estructura agraria concreta](maps/20220228_type_fires_pca_kmean_estr_2001_2020.html)
+- [Distribución espacial de los diferentes tipos de focos de calor (2001-2022) con capa de estructura agraria concreta](maps/20220228_type_fires_pca_kmean_estr.html)
 - [Construcción de una tipología de zonas con focos de incendio](https://docs.google.com/document/d/14pS8qaGe8lf0YY0RsvFEft2WeS854pAxPPabWYI6pJM/edit?usp=sharing)
