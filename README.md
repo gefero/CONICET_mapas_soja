@@ -6,7 +6,7 @@ En este repositorio se irán agregando links a los diferentes mapas generados co
 - [Macrstructuras agrarias 2002](maps/02_estructuras.html) 
 - [Tipos de estructuras sociales agrarias en la formación social argentina. Un análisis a nivel departamental: 2001-2002](https://www.mundoagrario.unlp.edu.ar/article/view/MAe153)
 
-- [Estructuras agrarias 2002](maps/03_microestructuras.html) 
+- [Microestructuras agrarias 2009-2022](maps/03_microestructuras.html) 
 
 ### Expansión sojera y de frontera
 - [Sustitución sojera 1988-2002](maps/01_sust_soja_1.html)
