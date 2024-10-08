@@ -3,7 +3,7 @@ En este repositorio se irán agregando links a los diferentes mapas generados co
 [_Modalidades de expansión de la frontera agrícola, cambios en el uso del suelo e impactos sobre la demanda de fuerza de trabajo agropecuaria. Argentina, 1980-2016_](https://www.conicet.gov.ar/new_scp/detalle.php?id=28059&datos_academicos=yes) que llevo adelante como Investigador Asistente del CONICET.
 
 ### Estructuras agrarias
-- [Macrstructuras agrarias 2002](maps/02_estructuras.html) 
+- [Macrostructuras agrarias 2002](maps/02_estructuras.html) 
 - [Tipos de estructuras sociales agrarias en la formación social argentina. Un análisis a nivel departamental: 2001-2002](https://www.mundoagrario.unlp.edu.ar/article/view/MAe153)
 
 - [Microestructuras agrarias 2009-2022](maps/03_microestructuras.html) 
